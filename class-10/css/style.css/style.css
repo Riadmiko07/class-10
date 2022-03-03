@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 10;
+  height: 200vh;
+  background-color: rgb(177, 121, 230);
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+div img {
+  float: right;
+  width: 300px;
+  height: 300px;
+  top: -20px;
+}
